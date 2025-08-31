@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+env/
+
+# Archivos grandes de DL
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Librerías y datasets locales
+Deeplearning/data/
+#HERPETARIO-MAIN/
+#Diapositivas/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
